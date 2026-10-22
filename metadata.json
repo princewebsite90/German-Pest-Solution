@@ -1,0 +1,6 @@
+{
+  "name": "German Pest Solution",
+  "description": "Professional pest control and fumigation services for homes, offices, and commercial spaces across Delhi NCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
